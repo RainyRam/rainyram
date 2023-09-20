@@ -5,7 +5,7 @@ body, html {
 	margin: 0;
 	font-size: 13px;
 	background: #000;
-	color: lime;
+	color: aqua;
 	font-family: 'Source Code Pro', monospace;
 	font-size: 12px;
 }
@@ -41,7 +41,7 @@ img {
 }
 
 .menu a {
-	color: lime;
+	color:  aqua;
 }
 
 .main {
@@ -66,13 +66,13 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-	border-bottom: 1px solid lime;
+	border-bottom: 1px solid aqua;
 }
 
 h2 {
-	border-bottom: 1px dotted lime;
+	border-bottom: 1px dotted aqua;
 }
 
 a {
-	color: red;
+	color: blue;
 }
